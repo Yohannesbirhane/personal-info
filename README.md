@@ -7,7 +7,6 @@
 </p>
 
 ---
-
 ### 🚀 About Me
 - 🎓 I'm a 2nd semester **Software Engineering** student  
 - 🏗️ Currently building a **Vehicle Management System** for **Debre Berhan City**
